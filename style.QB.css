@@ -6,7 +6,7 @@ margin: 0;
 }
 
 .hero-header {
-background-image: url('POSTER.webp'); /* Залишаємо фото як фон */
+background-image: url('POSTER.webp'); 
 background-size: cover;
 background-position: center;
 height: 400px;
@@ -108,4 +108,5 @@ transition: background 0.3s ease;
 
 a.button:hover {
 background-color: #003f7d;
+
 }
